@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 004 Verify click chip variant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1c93285-c499-4765-9509-2c41d1b444a2</testCaseGuid>
+</TestCaseEntity>

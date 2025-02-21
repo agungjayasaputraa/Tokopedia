@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 011 Verify to click button wishlist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0cd94310-a425-48fc-a87b-711d0d9bf620</testCaseGuid>
+</TestCaseEntity>

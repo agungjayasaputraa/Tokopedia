@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 026 Verify title qr</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>036b0b98-0c57-4a9e-9a9c-e2ce3b4ec62d</testCaseGuid>
+</TestCaseEntity>

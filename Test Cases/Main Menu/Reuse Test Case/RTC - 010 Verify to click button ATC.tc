@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 010 Verify to click button ATC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85f4a8f4-b5d9-44da-abe9-1791453e5c86</testCaseGuid>
+</TestCaseEntity>

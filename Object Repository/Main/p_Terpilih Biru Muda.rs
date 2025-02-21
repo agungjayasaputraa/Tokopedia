@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Terpilih Biru Muda</name>
+   <tag></tag>
+   <elementGuidId>e5cf371a-a08a-4ede-b6c0-946f833449d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-18j10yz-unf-heading.e1qvo2ff8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpFloatingActions']/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Terpilih: Biru Muda&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3c756d9c-2751-4742-9fbc-12380f060f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>e59f5315-e8da-4b61-9770-dbcb14861e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-18j10yz-unf-heading e1qvo2ff8</value>
+      <webElementGuid>8a8e6090-cd02-4b0c-a207-a522262b8184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terpilih: Biru Muda</value>
+      <webElementGuid>b1be416b-e460-4eee-bffc-5fdcb85830a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpFloatingActions&quot;)/button[@class=&quot;css-i4q68g&quot;]/p[@class=&quot;css-18j10yz-unf-heading e1qvo2ff8&quot;]</value>
+      <webElementGuid>8a45f2d8-d263-437b-bc0a-4955a151ec5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpFloatingActions']/button/p</value>
+      <webElementGuid>cd0aa447-62e2-4ece-9852-4ce7a9160811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur jumlah dan catatan'])[1]/following::p[1]</value>
+      <webElementGuid>16233587-d63f-41fa-a1c5-2031eba99094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atasan wanita classic modern trendi - Biru Muda'])[2]/following::p[2]</value>
+      <webElementGuid>1f39cdb9-de65-4e43-b03d-9f7b4f0ee9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jumlah'])[1]/preceding::p[1]</value>
+      <webElementGuid>4904b1f4-95c6-4c6f-9c98-8f79e01a8e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button/p</value>
+      <webElementGuid>b367c444-f947-49f3-b264-57b19ae8f66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Terpilih: Biru Muda' or . = 'Terpilih: Biru Muda')]</value>
+      <webElementGuid>ab873a48-e02f-461f-8ff1-15a5f488a837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

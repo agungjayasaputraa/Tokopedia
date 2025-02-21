@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>colourHitam</name>
+   <tag></tag>
+   <elementGuidId>e7fb439a-19e1-4d13-b845-e209029dcfdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-1y1tww-unf-heading.e1qvo2ff8 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpVariantContainer']/div/div/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;pdpVariantTitle\#0&quot;] >> internal:text=&quot;Hitam&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>43f34fd9-e24d-473e-aab7-ebe84448912a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hitam</value>
+      <webElementGuid>15f6a0b6-b025-4ea7-8d3f-2e61b34b8163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpVariantContainer&quot;)/div[@class=&quot;css-1b2d3hk&quot;]/div[@class=&quot;css-1b2d3hk&quot;]/p[@class=&quot;css-1y1tww-unf-heading e1qvo2ff8&quot;]/span[1]</value>
+      <webElementGuid>d7df04e2-9a5b-4490-a684-56992bb6f09a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpVariantContainer']/div/div/p/span</value>
+      <webElementGuid>c2d68501-9cbc-4005-be1e-5067eee46ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp90.000'])[2]/following::span[1]</value>
+      <webElementGuid>34cba465-1f2a-4702-b6ec-8eda1b1bab9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitam'])[3]/preceding::span[1]</value>
+      <webElementGuid>5290a0c1-76ad-4734-b818-150020320f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Putih'])[1]/preceding::span[1]</value>
+      <webElementGuid>437895c9-965f-459a-ae25-86a68b4076ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p/span</value>
+      <webElementGuid>5dec2d10-c618-4e66-bf72-a10d29b42193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hitam' or . = 'Hitam')]</value>
+      <webElementGuid>7ab1e69d-b57e-4c9a-8fe5-6919a5268f0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

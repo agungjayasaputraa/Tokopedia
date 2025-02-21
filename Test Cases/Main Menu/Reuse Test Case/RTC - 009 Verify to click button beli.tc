@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 009 Verify to click button beli</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbba9ccd-9133-42de-813c-8d440749800b</testCaseGuid>
+</TestCaseEntity>

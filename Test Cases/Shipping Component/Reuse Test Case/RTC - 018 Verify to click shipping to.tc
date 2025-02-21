@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 018 Verify to click shipping to</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85add3e2-eb60-4119-b142-8a2022d2c566</testCaseGuid>
+</TestCaseEntity>

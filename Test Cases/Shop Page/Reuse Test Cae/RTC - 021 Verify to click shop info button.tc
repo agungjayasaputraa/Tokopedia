@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 021 Verify to click shop info button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>271983c3-46b2-460a-b708-778f359cb5d0</testCaseGuid>
+</TestCaseEntity>

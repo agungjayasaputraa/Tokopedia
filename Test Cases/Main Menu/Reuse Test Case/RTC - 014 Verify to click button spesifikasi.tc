@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 014 Verify to click button spesifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1035bd33-4e51-40c0-988f-03a8826a91fe</testCaseGuid>
+</TestCaseEntity>

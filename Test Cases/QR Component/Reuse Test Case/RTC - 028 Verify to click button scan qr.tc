@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 028 Verify to click button scan qr</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>631d8dfc-b51e-4c9c-8ec3-c2ab9190a11d</testCaseGuid>
+</TestCaseEntity>

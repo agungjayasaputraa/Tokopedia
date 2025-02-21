@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>colourOrange</name>
+   <tag></tag>
+   <elementGuidId>2d3037c5-333a-4c24-8bc4-f470f6e2b020</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-1y1tww-unf-heading.e1qvo2ff8 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpVariantContainer']/div/div/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;pdpVariantTitle\#0&quot;] >> internal:text=&quot;Orange&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e08b3d2c-7d01-493c-8157-e329008c20f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Orange</value>
+      <webElementGuid>72bc457f-7fe6-4ad4-bc51-cfd5e5d4717d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpVariantContainer&quot;)/div[@class=&quot;css-1b2d3hk&quot;]/div[@class=&quot;css-1b2d3hk&quot;]/p[@class=&quot;css-1y1tww-unf-heading e1qvo2ff8&quot;]/span[1]</value>
+      <webElementGuid>6c3ace9d-994f-4176-9120-18f7714fb55b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpVariantContainer']/div/div/p/span</value>
+      <webElementGuid>b6b823fb-42f6-441b-b92f-67915d369119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp90.000'])[2]/following::span[1]</value>
+      <webElementGuid>10c86e5e-17d8-4c39-b417-e5fd6dd12497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitam'])[1]/preceding::span[1]</value>
+      <webElementGuid>d3616a7b-9797-4ac9-a403-29cb5063acbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Putih'])[1]/preceding::span[1]</value>
+      <webElementGuid>ed1416c0-aa8b-4987-9690-9b706555feb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p/span</value>
+      <webElementGuid>87e003ec-c9ac-420c-9f08-de46aa5ec6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Orange' or . = 'Orange')]</value>
+      <webElementGuid>3ff48ad4-6e25-4523-be30-3c27dd9005b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

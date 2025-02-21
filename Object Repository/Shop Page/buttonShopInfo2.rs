@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonShopInfo2</name>
+   <tag></tag>
+   <elementGuidId>dcb828d5-5447-43e5-857b-176e6d48080e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span > svg.unf-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat Penjual'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;btnShopDetail&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>3c541eee-1f5f-45cb-bf78-548ac9cdb1c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-icon</value>
+      <webElementGuid>b7000189-7add-446b-b90f-6e00fee25b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>23f560fe-d5a1-48da-944c-d238bcc0b669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18px</value>
+      <webElementGuid>f4b097ae-0d6c-4851-821b-bea45ffa4240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18px</value>
+      <webElementGuid>0498275f-f939-47b2-a976-6fcc54cfc9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#8D96AA</value>
+      <webElementGuid>cf4ab588-b3b4-45fc-a3a7-239019dff8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-1s3ezns&quot;]/div[@class=&quot;css-11kmdxw&quot;]/div[@class=&quot;css-nqwx6t&quot;]/div[@class=&quot;css-5xpzqw e4r2vca0&quot;]/div[1]/div[@class=&quot;css-drikti e1ufc1ph1&quot;]/div[@class=&quot;css-1p0pkw3 e1ufc1ph0&quot;]/div[@class=&quot;css-43mjx7&quot;]/div[@class=&quot;css-1i27l4i&quot;]/div[@class=&quot;css-1xib5cx-unf-tooltip&quot;]/button[@class=&quot;css-edw0t8-unf-btn eg8apji0&quot;]/span[1]/svg[@class=&quot;unf-icon&quot;]</value>
+      <webElementGuid>d72687f1-6613-43e8-9b35-a939d3c516b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat Penjual'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>dcfc6f5b-a5d6-4583-bd95-001ad410f53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8d864d3a-823c-4724-a014-42e814fe34a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Toko'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5685bd1f-fc0f-48c3-84df-2f29ae44407b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagikan'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>ca3fd88d-73da-4642-aa80-e31952633a36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

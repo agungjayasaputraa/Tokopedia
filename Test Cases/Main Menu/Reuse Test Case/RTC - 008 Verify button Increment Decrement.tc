@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 008 Verify button Increment Decrement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52d344a9-49cd-400c-8626-dbc89c915298</testCaseGuid>
+</TestCaseEntity>

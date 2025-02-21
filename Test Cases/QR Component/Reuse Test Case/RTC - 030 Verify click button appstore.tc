@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 030 Verify click button appstore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca912144-e82c-4f04-b3c2-e20d17dcd6bd</testCaseGuid>
+</TestCaseEntity>

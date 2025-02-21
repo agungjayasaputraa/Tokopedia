@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Terpilih Ungu</name>
+   <tag></tag>
+   <elementGuidId>e85468ab-a84d-4df7-beb8-e50d313c68b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-18j10yz-unf-heading.e1qvo2ff8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpFloatingActions']/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Terpilih: Ungu&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4ddbb96b-738b-4644-a2d5-f547d7d7c2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>432e3572-5bed-41e6-8ea8-f02e533fc62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-18j10yz-unf-heading e1qvo2ff8</value>
+      <webElementGuid>55094fef-f8e9-44fa-840d-e5d9e045a377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terpilih: Ungu</value>
+      <webElementGuid>be8138ed-aa01-40e1-994e-80d2c55696a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpFloatingActions&quot;)/button[@class=&quot;css-i4q68g&quot;]/p[@class=&quot;css-18j10yz-unf-heading e1qvo2ff8&quot;]</value>
+      <webElementGuid>bc9d1d34-e6ee-43ce-b815-6616c86f648e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpFloatingActions']/button/p</value>
+      <webElementGuid>9ed52df4-e0f1-4df7-ae2d-36343e5b1c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur jumlah dan catatan'])[1]/following::p[1]</value>
+      <webElementGuid>e23c9147-7f01-45bc-983e-ec5dbbcf580c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atasan wanita classic modern trendi - Ungu'])[2]/following::p[2]</value>
+      <webElementGuid>f28bb445-dd20-4e09-9e61-6e240675b1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jumlah'])[1]/preceding::p[1]</value>
+      <webElementGuid>6d85583e-e7ed-40e0-8981-abc6585d2d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button/p</value>
+      <webElementGuid>6e3f3b11-e83e-479d-8e7c-466e2f98761f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Terpilih: Ungu' or . = 'Terpilih: Ungu')]</value>
+      <webElementGuid>a9954d6e-0213-47ed-b0e0-19daa53eb10b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

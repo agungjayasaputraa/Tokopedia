@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 022 Verify to click share button on shop page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14413308-ae5d-45df-b3ce-8a0448375e66</testCaseGuid>
+</TestCaseEntity>

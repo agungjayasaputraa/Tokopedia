@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 005 Verify title when click variant chips</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb1342e0-8686-486c-b5da-dd297ff40d24</testCaseGuid>
+</TestCaseEntity>

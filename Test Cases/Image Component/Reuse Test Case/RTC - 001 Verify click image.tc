@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As a user verify click image on image component and show the image</description>
+   <name>RTC - 001 Verify click image</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4dd15c16-9add-410c-8803-4a86e1ad0e93</testCaseGuid>
+</TestCaseEntity>

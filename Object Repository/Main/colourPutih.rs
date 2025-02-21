@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>colourPutih</name>
+   <tag></tag>
+   <elementGuidId>cdca4b1e-8773-460e-ab94-4aade394593b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-1y1tww-unf-heading.e1qvo2ff8 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpVariantContainer']/div/div/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;pdpVariantTitle\#0&quot;] >> internal:text=&quot;Putih&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c5aae47-83f7-470e-9a81-8a63a04d9ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Putih</value>
+      <webElementGuid>44c59e64-739e-4cd3-9863-cb03293dd379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpVariantContainer&quot;)/div[@class=&quot;css-1b2d3hk&quot;]/div[@class=&quot;css-1b2d3hk&quot;]/p[@class=&quot;css-1y1tww-unf-heading e1qvo2ff8&quot;]/span[1]</value>
+      <webElementGuid>ea0c3b9b-4449-4e37-b04c-ca559092ad18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpVariantContainer']/div/div/p/span</value>
+      <webElementGuid>85dbe1dd-ee0d-4569-8968-f15a10f6ed1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp90.000'])[2]/following::span[1]</value>
+      <webElementGuid>5a633425-4ed1-4130-a64e-1ba38d860604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitam'])[1]/preceding::span[1]</value>
+      <webElementGuid>61f3b99a-7d08-4509-8e77-2da59df95ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Putih'])[3]/preceding::span[1]</value>
+      <webElementGuid>5cff3d59-7d1c-40ed-b0cd-fcdd90e59e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p/span</value>
+      <webElementGuid>dcea2403-d415-43ed-acb8-a0f0a105bc4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Putih' or . = 'Putih')]</value>
+      <webElementGuid>93babc4a-3f37-4c8c-a645-1dc191a33adb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

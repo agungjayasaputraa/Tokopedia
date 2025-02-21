@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iEtalase</name>
+   <tag></tag>
+   <elementGuidId>ba3f9600-9cde-42b2-bbc5-c30ced9809ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdp_comp-product_detail']/div[2]/div[2]/ul/li[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Etalase:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0ebe3f4-331f-41b9-8f71-f4510a698689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Etalase: </value>
+      <webElementGuid>4c228f8b-7867-457e-b178-0621bf0767af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdp_comp-product_detail&quot;)/div[2]/div[2]/ul[@class=&quot;css-1dqq1xv eytdjj02&quot;]/li[@class=&quot;css-bwcbiv&quot;]/span[1]</value>
+      <webElementGuid>f988fb86-9c1f-49c3-9fa3-a2f0ec7c3226</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdp_comp-product_detail']/div[2]/div[2]/ul/li[3]/span</value>
+      <webElementGuid>4314230d-767e-479d-ab1d-d42850c050b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min. Pemesanan:'])[1]/following::span[2]</value>
+      <webElementGuid>244b76c8-0138-4307-ad21-32db3425f7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru'])[1]/following::span[3]</value>
+      <webElementGuid>045f4f89-8c4c-4cfa-9e22-b00083e5435c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Etalase'])[1]/preceding::span[1]</value>
+      <webElementGuid>0346b15e-adbb-4d37-9a51-038e2cfb494a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baju atasan wanita classic dengan berbagai macam ukuran'])[1]/preceding::span[1]</value>
+      <webElementGuid>b12d7442-8682-440e-bcea-b21f03fdccec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Etalase']/parent::*</value>
+      <webElementGuid>cb16a97f-d655-4269-a501-3147fa238e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>dcddb8d0-51fc-4239-b5f3-8add3199d3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Etalase: ' or . = 'Etalase: ')]</value>
+      <webElementGuid>d82966e4-0583-4e30-a523-a2baf1fa6af0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

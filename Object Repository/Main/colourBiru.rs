@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>colourBiru</name>
+   <tag></tag>
+   <elementGuidId>ecb03bb6-893a-4f3b-aa7d-d1b43a686d6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-1y1tww-unf-heading.e1qvo2ff8 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpVariantContainer']/div/div/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;pdpVariantTitle\#0&quot;] >> internal:text=&quot;Biru&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17466e60-8b2f-4174-9a7d-864c2bbeea78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Biru</value>
+      <webElementGuid>5d1a0c5f-6625-4634-9ab9-13bc742a665f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpVariantContainer&quot;)/div[@class=&quot;css-1b2d3hk&quot;]/div[@class=&quot;css-1b2d3hk&quot;]/p[@class=&quot;css-1y1tww-unf-heading e1qvo2ff8&quot;]/span[1]</value>
+      <webElementGuid>6a72af84-b1f7-4e24-af9d-de9085c3e820</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpVariantContainer']/div/div/p/span</value>
+      <webElementGuid>234d23b5-fa19-4fd2-883b-57181fb341a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp90.000'])[2]/following::span[1]</value>
+      <webElementGuid>258e8395-1579-46bd-b921-4a8e1a81b3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitam'])[1]/preceding::span[1]</value>
+      <webElementGuid>954752cd-ea6e-4e92-aa2e-3912a2977882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Putih'])[1]/preceding::span[1]</value>
+      <webElementGuid>3fb11874-7cd1-4c6c-9605-daa8e795f7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p/span</value>
+      <webElementGuid>2629796e-8159-433c-b361-4e392d4ab4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Biru' or . = 'Biru')]</value>
+      <webElementGuid>4d2fbad3-2e75-48cd-8115-2e78d365cbef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

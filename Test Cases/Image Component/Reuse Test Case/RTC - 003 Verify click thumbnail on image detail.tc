@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can click thumbnaik on image detail</description>
+   <name>RTC - 003 Verify click thumbnail on image detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>029bc544-6cca-4835-bab2-c1a88b9fb511</testCaseGuid>
+</TestCaseEntity>

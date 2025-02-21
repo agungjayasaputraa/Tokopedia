@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 029 Verify click button play store</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>641e6dad-a8a8-4197-8062-967b973f41a6</testCaseGuid>
+</TestCaseEntity>

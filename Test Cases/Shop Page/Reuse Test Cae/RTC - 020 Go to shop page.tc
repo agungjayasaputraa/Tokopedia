@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 020 Go to shop page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68373ebf-313e-49c4-b83c-e6cd0c2e2f39</testCaseGuid>
+</TestCaseEntity>

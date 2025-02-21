@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify button swipe on Image detail</description>
+   <name>RTC - 002 Verify button swipe on Image detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>769b4cbe-6d40-4227-a506-0ffa775aa1d4</testCaseGuid>
+</TestCaseEntity>

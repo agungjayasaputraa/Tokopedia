@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 013 Verify to click button share</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20f3fd90-7ab8-496f-9e0c-7bb9199df9e2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleQR</name>
+   <tag></tag>
+   <elementGuidId>cf4cbca1-e75d-4f3b-a88d-7ed786fb2793</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.css-rvp54y-unf-heading.e1qvo2ff3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdp_comp-QRCode']/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Beli di aplikasi, makin banyak promo!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>cfd322b2-3324-4f13-a449-e0390507059f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>e387f03e-7c42-46f8-90a2-7a89667ac246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-rvp54y-unf-heading e1qvo2ff3</value>
+      <webElementGuid>a566a6d2-7b8a-47bf-b7f4-56980622ed14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beli di aplikasi, makin banyak promo!</value>
+      <webElementGuid>62a808d9-9f50-4b90-91ac-58ac14a481dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdp_comp-QRCode&quot;)/div[2]/h3[@class=&quot;css-rvp54y-unf-heading e1qvo2ff3&quot;]</value>
+      <webElementGuid>b3e4b0d2-a6cb-4541-9c5b-d5e17ef62b0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdp_comp-QRCode']/div[2]/h3</value>
+      <webElementGuid>54804f5f-4e1d-4828-b273-ebcbd0fc3dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Pilihan Kurir'])[1]/following::h3[1]</value>
+      <webElementGuid>e7d53e38-002c-4206-a07d-8039e03156a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimasi tiba 23 - 25 Feb'])[1]/following::h3[1]</value>
+      <webElementGuid>61b74e87-2130-454e-a471-03998c1bdb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan QR-nya untuk lihat barang ini di aplikasi Tokopedia. Bebas ongkir, lho~'])[1]/preceding::h3[1]</value>
+      <webElementGuid>e5909434-9f13-4083-b272-89ac23087462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan QR'])[1]/preceding::h3[1]</value>
+      <webElementGuid>24d4a57c-8743-4f64-890d-23920352bdf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beli di aplikasi, makin banyak promo!']/parent::*</value>
+      <webElementGuid>3afd228d-6d3e-4f73-86d4-726139b71bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>28dc4b9d-078d-4c2e-a3ca-6a0924d80266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Beli di aplikasi, makin banyak promo!' or . = 'Beli di aplikasi, makin banyak promo!')]</value>
+      <webElementGuid>54c86243-f549-4976-9abb-ca8d1416722e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

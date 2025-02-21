@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonGunakan</name>
+   <tag></tag>
+   <elementGuidId>a0cd1fdd-dbc4-4872-9881-1c692b9fe65a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mau pakai cara lain?'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Gunakan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4113ae5d-ef07-459d-8c1c-6dd317a08925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gunakan</value>
+      <webElementGuid>2e261368-c9c8-4261-99ed-5a0d8fd33b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pdp-container&quot;]/div[14]/div[@class=&quot;css-kl3gjj e1nc1fa20&quot;]/article[@class=&quot;css-z3221k-unf-modal e1nc1fa21&quot;]/div[@class=&quot;css-d6mneo e1nc1fa22&quot;]/div[1]/div[@class=&quot;_00-rei7R6H3SyhH6UV5V+A==&quot;]/button[@class=&quot;JI+MbLNzUjJBuzfpTKX2-g== css-d41a3e-unf-btn eg8apji0&quot;]/span[1]</value>
+      <webElementGuid>965d4d45-0651-4035-a06d-c0a56fa06d62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mau pakai cara lain?'])[1]/following::span[1]</value>
+      <webElementGuid>8872a8b9-81bf-4baf-bed6-3adf4f09f67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[3]/following::span[1]</value>
+      <webElementGuid>1e8d6ac7-90c0-4ae4-87b3-c5dc3497cb3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gunakan']/parent::*</value>
+      <webElementGuid>a86e1a62-0461-41be-9826-4c308058c060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div[2]/button/span</value>
+      <webElementGuid>1c3f2b56-4c64-4c8a-82a1-9986b6271e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Gunakan' or . = 'Gunakan')]</value>
+      <webElementGuid>1d04490f-d118-421e-8409-c2b07ddb1c6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 023 Verify click button product sold but not have product sold</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abcde4bc-700e-4d12-b52a-ca7b01a0e912</testCaseGuid>
+</TestCaseEntity>

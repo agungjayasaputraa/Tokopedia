@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 007 Verify wording variant on set amout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f41f0098-e20d-4027-ac5f-e8defba6d432</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonIncrement</name>
+   <tag></tag>
+   <elementGuidId>72748950-333c-4600-914e-d9079e8628ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;pdpFloatingActions&quot;)/div[@class=&quot;css-1waacjy&quot;]/div[@class=&quot;css-1aq53kl-unf-quantity-editor&quot;]/button[@class=&quot;css-6cobzs&quot;]/svg[@class=&quot;unf-icon&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur jumlah dan catatan'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Tambah 1&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1afc3ac4-69b4-46c7-a6ce-de21cb815fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-icon</value>
+      <webElementGuid>44c860ef-f2a6-4daa-ac68-f6c6a1ff244f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>43220fd7-f566-4524-88c0-33e890ce2972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16px</value>
+      <webElementGuid>5b46017d-eb7c-4dba-8cbe-749dbb6198ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16px</value>
+      <webElementGuid>9cc632fe-a128-438c-ac48-9ab58f6b2ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>var(--GN500, #00AA5B)</value>
+      <webElementGuid>a5d8c042-92a2-45b5-a4b8-b47a9f9a2e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpFloatingActions&quot;)/div[@class=&quot;css-1waacjy&quot;]/div[@class=&quot;css-1aq53kl-unf-quantity-editor&quot;]/button[@class=&quot;css-6cobzs&quot;]/svg[@class=&quot;unf-icon&quot;]</value>
+      <webElementGuid>6b0f94d2-77e0-47c9-8fed-eadd6e5c157d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur jumlah dan catatan'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>8f28ebec-f7db-47b8-8524-97b35e2386ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atasan wanita classic modern trendi'])[2]/following::*[name()='svg'][3]</value>
+      <webElementGuid>5c59754e-d7b5-4142-9608-4b2312eba170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jumlah'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f3d78f44-f2dc-4abe-bc6a-9aae64af2bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Keranjang'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>adef743c-1708-4a27-b308-1d53f41bd7c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

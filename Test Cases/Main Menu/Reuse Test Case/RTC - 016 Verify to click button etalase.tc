@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 016 Verify to click button etalase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4de1caf3-3438-45d0-9153-f8f89a42299c</testCaseGuid>
+</TestCaseEntity>

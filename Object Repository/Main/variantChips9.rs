@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>variantChips9</name>
+   <tag></tag>
+   <elementGuidId>1a05b872-f7ec-4826-a95d-0562c77770c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpVariantContainer']/div/div/div/div[8]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.css-1xe5y8y.e6yxrl0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ungu&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b7d11838-b913-4583-902f-7e009d0ac8dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1xe5y8y e6yxrl0</value>
+      <webElementGuid>a241938b-9747-42d0-a259-06def4115154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpVariantContainer&quot;)/div[@class=&quot;css-1b2d3hk&quot;]/div[@class=&quot;css-1b2d3hk&quot;]/div[@class=&quot;css-hayuji&quot;]/div[@class=&quot;css-1y1bj62&quot;]/button[@class=&quot;css-1569v40-unf-chip e6yxrl1&quot;]/i[@class=&quot;css-1xe5y8y e6yxrl0&quot;]</value>
+      <webElementGuid>64e886ef-3d11-44fa-9b51-2dcc986f9933</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpVariantContainer']/div/div/div/div[8]/button/i</value>
+      <webElementGuid>a033632d-a8b9-42c5-9bc6-fd60fc576719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/button/i</value>
+      <webElementGuid>14b0d5fb-b360-42fd-9316-471497c301a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

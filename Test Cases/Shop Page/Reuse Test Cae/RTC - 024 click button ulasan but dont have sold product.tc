@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 024 click button ulasan but dont have sold product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9330f15b-c2d4-40f6-8e07-761d1c26978e</testCaseGuid>
+</TestCaseEntity>

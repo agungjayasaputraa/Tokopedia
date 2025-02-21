@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleBelumAdaRating</name>
+   <tag></tag>
+   <elementGuidId>f03dbc37-24b0-4d6a-a4bf-b1921ca9721a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5.css-16f7itu-unf-heading.e1qvo2ff5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div[2]/div[4]/div[2]/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Belum ada rating dan ulasan produk di toko ini&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>9032ae24-188d-43a5-88a9-b32361eb3dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>23979b07-5907-4f42-b678-080ebdba0345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-16f7itu-unf-heading e1qvo2ff5</value>
+      <webElementGuid>b5e9acfa-58c5-491d-b9f5-4761156e45b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Belum ada rating dan ulasan produk di toko ini</value>
+      <webElementGuid>a49d3d08-afbd-4d7a-83f9-ec6c06be9ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-1s3ezns&quot;]/div[@class=&quot;css-54p80r-unf-emptystate e1mmy8p70&quot;]/div[2]/h5[@class=&quot;css-16f7itu-unf-heading e1qvo2ff5&quot;]</value>
+      <webElementGuid>8fc15203-39f6-4e64-8aff-9e94bb6a51e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div[2]/div[4]/div[2]/h5</value>
+      <webElementGuid>b06271e9-4e4b-4f37-8df6-25811775f95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ulasan'])[1]/following::h5[1]</value>
+      <webElementGuid>7a89f888-ae81-4440-a2d6-fd06be01e202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/following::h5[1]</value>
+      <webElementGuid>666fa384-1e62-4030-b71d-380eb9ac5e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Toko 4gungsh0p'])[1]/preceding::h5[1]</value>
+      <webElementGuid>f8c5240c-1569-4ab5-b971-fac72706baef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buka Sejak'])[1]/preceding::h5[1]</value>
+      <webElementGuid>31b249d6-da40-4d40-8be1-ecb25c132af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Belum ada rating dan ulasan produk di toko ini']/parent::*</value>
+      <webElementGuid>5a5e51e5-2699-445f-9b28-a303b530ed28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>9ebde6fb-0fa6-48ae-a794-745cbbb8e13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Belum ada rating dan ulasan produk di toko ini' or . = 'Belum ada rating dan ulasan produk di toko ini')]</value>
+      <webElementGuid>4e46cfac-39d1-40f1-be6c-93a84ae4b9b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>subtitleQR</name>
+   <tag></tag>
+   <elementGuidId>83fb65a7-6e83-4329-9955-6269b2e9cf32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1h0vzrw > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdp_comp-QRCode']/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Scan QR-nya untuk lihat barang ini di aplikasi Tokopedia. Bebas ongkir, lho~&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1cd744b4-57ba-4bad-a133-6843cf88c808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scan QR-nya untuk lihat barang ini di aplikasi Tokopedia. Bebas ongkir, lho~</value>
+      <webElementGuid>0fa1bee7-05a9-4b7f-b1ac-3913e9c58a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdp_comp-QRCode&quot;)/div[2]/div[@class=&quot;css-1h0vzrw&quot;]/div[2]</value>
+      <webElementGuid>f85f2552-64d8-420e-a8c1-50bf21ed6486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdp_comp-QRCode']/div[2]/div/div[2]</value>
+      <webElementGuid>f0261b47-3ff6-4f89-8f4a-3665c271411d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli di aplikasi, makin banyak promo!'])[1]/following::div[3]</value>
+      <webElementGuid>65b0f656-a741-4a06-8124-ffe9b75bf7dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Pilihan Kurir'])[1]/following::div[6]</value>
+      <webElementGuid>e0be6c75-1ecb-448e-852f-d857df2025df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan QR'])[1]/preceding::div[1]</value>
+      <webElementGuid>7b602b6c-dc3d-4148-bcee-7b9d5248379b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada masalah dengan produk ini?'])[1]/preceding::div[3]</value>
+      <webElementGuid>8aabd6eb-2815-416c-b2db-8dfb069bf6b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scan QR-nya untuk lihat barang ini di aplikasi Tokopedia. Bebas ongkir, lho~']/parent::*</value>
+      <webElementGuid>240c6e2f-9fe8-43ab-82d0-b47736c56e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div/div[2]</value>
+      <webElementGuid>6eb269f6-2789-4762-bff2-a1cdb0faee32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Scan QR-nya untuk lihat barang ini di aplikasi Tokopedia. Bebas ongkir, lho~' or . = 'Scan QR-nya untuk lihat barang ini di aplikasi Tokopedia. Bebas ongkir, lho~')]</value>
+      <webElementGuid>24541fab-06f6-46cb-8de9-e146d17ddff8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify chose color on main pdp where user click variant chips</description>
+   <name>RTC - 006 Verify chose color on main pdp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a26ef37-ee06-4cb1-be47-6176cbbce607</testCaseGuid>
+</TestCaseEntity>

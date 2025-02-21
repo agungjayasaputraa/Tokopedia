@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 012 Verify to click button chat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef17e36f-2dfc-4dfd-8e39-16d7b72f54ff</testCaseGuid>
+</TestCaseEntity>

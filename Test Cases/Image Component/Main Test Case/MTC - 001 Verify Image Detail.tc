@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MTC - 001 Verify Image Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9109208-e52c-42a8-926d-e45bc746812b</testCaseGuid>
+</TestCaseEntity>

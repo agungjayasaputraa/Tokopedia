@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 017 Click Pilih kurir lainnya</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfc20c9a-0203-4b95-b249-2ffcd8401802</testCaseGuid>
+</TestCaseEntity>
