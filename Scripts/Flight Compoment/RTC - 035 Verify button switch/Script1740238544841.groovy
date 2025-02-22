@@ -23,13 +23,17 @@ WebUI.navigateToUrl('https://www.tokopedia.com/')
 
 WebUI.click(findTestObject('Flight Component/buttonFlight'))
 
-WebUI.verifyElementText(findTestObject('Flight Component/fieldAsal'), '')
+WebUI.verifyElementAttributeValue(findTestObject('Flight Component/fieldAsal'), 'placeholder', 'Jakarta (CGK)', 0)
 
-WebUI.verifyElementText(findTestObject('Flight Component/fieldTujuan'), '')
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Flight Component/img'))
+WebUI.verifyElementAttributeValue(findTestObject('Flight Component/fieldTujuan'), 'placeholder', 'Denpasar (DPS)', 0)
 
-WebUI.verifyElementText(findTestObject('Flight Component/fieldTujuan'), '')
+WebUI.click(findTestObject('Flight Component/buttonSwitch'))
 
-WebUI.verifyElementText(findTestObject('Flight Component/fieldAsal'), '')
+WebUI.verifyElementAttributeValue(findTestObject('Flight Component/fieldAsal'), 'placeholder', 'Jakarta (CGK)', 0)
+
+WebUI.delay(2)
+
+WebUI.verifyElementAttributeValue(findTestObject('Flight Component/fieldTujuan'), 'placeholder', 'Denpasar (DPS)', 0)
 

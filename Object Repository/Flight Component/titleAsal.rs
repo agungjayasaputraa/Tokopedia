@@ -4,17 +4,26 @@
    <name>titleAsal</name>
    <tag></tag>
    <elementGuidId>1c7776c3-ee65-424c-bb1a-c2763a11ae30</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.subtitle</value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div/div/div/div/div</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.subtitle</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Asal' or . = 'Asal')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>61fb2386-61f4-4ce4-88d6-2dfe1286ccea</webElementGuid>
+      <webElementGuid>fd402212-1a23-483f-aa7e-ad638226aa5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>subtitle</value>
-      <webElementGuid>f6af8ddc-6642-4e0a-8fe1-af1f145d4100</webElementGuid>
+      <webElementGuid>b9ae1353-b4bb-472a-ae41-88e697db0321</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Asal</value>
-      <webElementGuid>8d01365b-5ec4-4fa6-8245-2efe3ec38a23</webElementGuid>
+      <webElementGuid>6b911297-dc61-48e4-888b-3bc47f271aa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;css-14u6y52&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-176o57r&quot;]/div[@class=&quot;css-nsmt50&quot;]/div[@class=&quot;css-lbroap&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-a1cc60&quot;]/section[@class=&quot;css-q1vfvh-unf-card eeeacht0&quot;]/div[@class=&quot;css-18otgy3&quot;]/div[@class=&quot;location&quot;]/div[@class=&quot;stretch&quot;]/div[@class=&quot;inner-title&quot;]/div[@class=&quot;subtitle&quot;]</value>
-      <webElementGuid>5b47fc01-9e6f-4cff-82e9-8318269f9363</webElementGuid>
+      <webElementGuid>32cedf1d-e5ec-4fe5-b141-44d15d0b0c81</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div/div/div/div/div</value>
-      <webElementGuid>6f631dae-c835-49f2-9031-f97892352de5</webElementGuid>
+      <webElementGuid>e4bb2a76-9187-4f7b-b85a-b100b23f5e77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesan tiket pesawat dengan harga murah di Tokopedia'])[1]/following::div[5]</value>
-      <webElementGuid>4d4b3ec1-1079-4dbc-bc24-f9058712902d</webElementGuid>
+      <webElementGuid>1cc4c9f9-bf2e-46a6-af7d-20d52c0728f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotel'])[1]/following::div[17]</value>
-      <webElementGuid>c45ec976-ef54-4385-910a-a7fd282149df</webElementGuid>
+      <webElementGuid>84b5fd95-6d3a-47b4-a3df-6f2b7be9b72b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tujuan'])[1]/preceding::div[2]</value>
-      <webElementGuid>b8d72f72-cf43-46f2-b347-53889e35e922</webElementGuid>
+      <webElementGuid>9f9190b1-6a7d-42c1-b26c-257a35188705</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berangkat'])[1]/preceding::div[5]</value>
-      <webElementGuid>76aec98b-a6d0-4490-8fa3-7b36ed52b09b</webElementGuid>
+      <webElementGuid>1dd255df-8e39-4a31-84c4-d33e06ad2274</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Asal']/parent::*</value>
-      <webElementGuid>bee4b207-5c2c-4d24-a20c-d86a8ba1ce97</webElementGuid>
+      <webElementGuid>ba3f4607-4da7-4ac5-9820-04722c6c7810</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div/div/div/div</value>
-      <webElementGuid>1a2bc3b8-7a22-4ca7-be80-6fec9323d62f</webElementGuid>
+      <webElementGuid>56c1f022-ad55-4abb-a04e-779cf84cb7ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Asal' or . = 'Asal')]</value>
-      <webElementGuid>8ef209f4-7a00-4aa1-949a-24607c08663d</webElementGuid>
+      <webElementGuid>05e8f6b6-2bf0-4bde-8d92-7ed65b07feb5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

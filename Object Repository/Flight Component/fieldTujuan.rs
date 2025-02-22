@@ -4,17 +4,26 @@
    <name>fieldTujuan</name>
    <tag></tag>
    <elementGuidId>145fb4d4-4be7-4fde-8a2c-b9f6b6830d4b</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@value='Denpasar (DPS)']</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Denpasar (DPS)']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
          <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>62963203-0494-407c-9803-8ca88bf73f48</webElementGuid>
+      <webElementGuid>95e8f163-91ad-43ed-8d20-278f6fa9647e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-1lqrebu</value>
-      <webElementGuid>02b242f2-fb71-4ca7-8c2f-f509b749218f</webElementGuid>
+      <webElementGuid>e02d8d44-4320-4006-bf18-ec5ab72afab6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Denpasar (DPS)</value>
-      <webElementGuid>7d0f1e4c-b246-49cf-978c-434554d9a03c</webElementGuid>
+      <webElementGuid>f050fbd0-30d8-46e4-931a-537d633432f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Denpasar (DPS)</value>
-      <webElementGuid>029f3502-3f0a-453f-8e3f-17ab52fc5140</webElementGuid>
+      <webElementGuid>23453365-b364-4f0d-a761-6b0ebe2d7cbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +70,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>selectorTujuan</value>
-      <webElementGuid>8d6b6949-24e3-4fdc-bf24-d241b15a8918</webElementGuid>
+      <webElementGuid>249f4658-77ee-4d4c-9bc6-3062712f51f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;css-14u6y52&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-176o57r&quot;]/div[@class=&quot;css-nsmt50&quot;]/div[@class=&quot;css-lbroap&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-a1cc60&quot;]/section[@class=&quot;css-q1vfvh-unf-card eeeacht0&quot;]/div[@class=&quot;css-18otgy3&quot;]/div[@class=&quot;location&quot;]/div[@class=&quot;stretch&quot;]/input[@class=&quot;css-1lqrebu&quot;]</value>
-      <webElementGuid>2d47c0aa-efa9-419a-b6e9-efc097bca86b</webElementGuid>
+      <webElementGuid>009f5dd5-4f06-48b5-ae6b-fe7a7077cdb2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Denpasar (DPS)']</value>
-      <webElementGuid>ae879c39-8806-4056-80fa-b70d5a91a2d9</webElementGuid>
+      <webElementGuid>df334e97-9841-4128-85b9-9ae804707131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div/div/div[3]/input</value>
-      <webElementGuid>1a184970-3cf9-4da2-851a-aff82efe5c46</webElementGuid>
+      <webElementGuid>be6a6b4e-1d0f-4d13-a629-bdc1030f15a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>6f3db28c-aea8-434b-9e65-f5c7c6fe2b7a</webElementGuid>
+      <webElementGuid>1a69699d-39e7-4d36-be60-3375f81453a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Denpasar (DPS)']</value>
-      <webElementGuid>a6e209be-4d0b-4ec1-8781-ef3bc010566c</webElementGuid>
+      <webElementGuid>3b03eab9-f9d4-4339-945d-88e8e4837281</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

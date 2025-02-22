@@ -25,9 +25,9 @@ WebUI.click(findTestObject('Flight Component/buttonFlight'))
 
 WebUI.click(findTestObject('Flight Component/fieldTujuan'))
 
-WebUI.verifyElementText(findTestObject('Flight Component/listIndonesia'), 'INDONESIA')
+WebUI.verifyElementText(findTestObject('Flight Component/listIndonesiaTujuan'), 'INDONESIA')
 
-WebUI.verifyElementText(findTestObject('Flight Component/listMalaysia'), 'MALAYSIA')
+WebUI.verifyElementText(findTestObject('Flight Component/listMalaysiaTujuan'), 'MALAYSIA')
 
-WebUI.verifyElementText(findTestObject('Flight Component/listSingapore'), 'SINGAPORE')
+WebUI.verifyElementText(findTestObject('Flight Component/listSingaporeTujuan'), 'SINGAPORE')
 

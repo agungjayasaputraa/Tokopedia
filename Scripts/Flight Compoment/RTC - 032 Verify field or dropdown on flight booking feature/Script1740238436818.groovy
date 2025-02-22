@@ -25,11 +25,14 @@ WebUI.click(findTestObject('Flight Component/buttonFlight'))
 
 WebUI.verifyElementText(findTestObject('Flight Component/titleAsal'), 'Asal')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Flight Component/fieldAsal'), '')
+WebUI.delay(3)
+
+WebUI.verifyElementAttributeValue(findTestObject('Flight Component/fieldAsal'), 'placeholder', 'Jakarta (CGK)', 0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Flight Component/titleTujuan'), 'Tujuan')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Flight Component/fieldTujuan'), '')
+WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Flight Component/fieldTujuan'), 'placeholder', 'Denpasar (DPS)', 
+    0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Flight Component/titleBerangkat'), 'Berangkat')
 

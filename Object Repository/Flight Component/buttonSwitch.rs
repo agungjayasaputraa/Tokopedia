@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img</name>
+   <name>buttonSwitch</name>
    <tag></tag>
    <elementGuidId>03520e37-8b74-4c82-9c68-648058a5acbe</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div/div/div[2]/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img[alt=&quot;Swap locations&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div/div/div[2]/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

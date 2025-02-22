@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_MALAYSIA (1)</name>
+   <name>listMalaysiaTujuan</name>
    <tag></tag>
-   <elementGuidId>3cf60972-cc0a-4933-9119-c1f48787241d</elementGuidId>
+   <elementGuidId>56592765-6094-485c-b488-65f0b6f77461</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div[15]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div[15]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7bde7390-a835-4009-9ba8-2f0171d9b88f</webElementGuid>
+      <webElementGuid>b339bf78-020d-4ecd-8249-f826355df72a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>location-category</value>
-      <webElementGuid>fa623632-054a-46c1-923d-c18cc2ba6ff7</webElementGuid>
+      <webElementGuid>8c3d296c-6dfe-47b5-9747-6095f9762970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>MALAYSIA</value>
-      <webElementGuid>726d28fc-17f6-4efe-b839-04b79526ce77</webElementGuid>
+      <webElementGuid>d1fdeeda-b8bd-4ea1-973f-f01fde921b3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;css-14u6y52&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-176o57r&quot;]/div[@class=&quot;css-nsmt50&quot;]/div[@class=&quot;css-lbroap&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-a1cc60&quot;]/section[@class=&quot;css-q1vfvh-unf-card eeeacht0&quot;]/div[@class=&quot;css-1q62ntx&quot;]/div[@class=&quot;css-zpv22&quot;]/div[@class=&quot;location-category&quot;]</value>
-      <webElementGuid>369d13d9-76de-4c79-8c66-7934324afd2c</webElementGuid>
+      <webElementGuid>678c7b3f-e56f-47a6-a164-30047deafbbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div[15]</value>
-      <webElementGuid>d12bf6e1-5307-4b6b-a24e-dc3e67fc1d03</webElementGuid>
+      <webElementGuid>7f8b2c08-8d7e-44fb-a044-8bb276364574</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pontianak - Supadio (PNK)'])[2]/following::div[1]</value>
-      <webElementGuid>9e9fd654-9dde-45d7-a32a-273468c205f7</webElementGuid>
+      <webElementGuid>8dd34505-17f4-4683-a9d8-896327e1aebb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Denpasar - Ngurah Rai (DPS)'])[2]/following::div[3]</value>
-      <webElementGuid>d92fd5b5-8a84-4e56-9fef-2f911f4c2d15</webElementGuid>
+      <webElementGuid>72e225e2-66c9-4e93-b55b-35f97fd49482</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kuala Lumpur - Kuala Lumpur (KUL)'])[2]/preceding::div[1]</value>
-      <webElementGuid>9d4576a6-a689-42c5-b521-b265fb071097</webElementGuid>
+      <webElementGuid>41b816d8-f30e-4a1a-884d-5ca6cf94eca5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SINGAPORE'])[2]/preceding::div[3]</value>
-      <webElementGuid>a3df0ae4-be97-4e64-97ad-9ac674dbf9ed</webElementGuid>
+      <webElementGuid>57bcbe5d-0f4a-49c1-af8b-31d85aad89d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div[15]</value>
-      <webElementGuid>b7ebc33a-692b-4924-87c5-fee0c14cc1d2</webElementGuid>
+      <webElementGuid>8c081a22-ee44-48e5-8116-dcdd0ea85ab5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'MALAYSIA' or . = 'MALAYSIA')]</value>
-      <webElementGuid>f18e2989-53f5-4990-8d02-dc6844425f38</webElementGuid>
+      <webElementGuid>020b79a5-e312-4bb7-912f-8daad3b2558f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

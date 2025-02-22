@@ -25,21 +25,15 @@ WebUI.click(findTestObject('Flight Component/buttonFlight'))
 
 WebUI.click(findTestObject('Flight Component/fieldBerangkat'))
 
-WebUI.click(findTestObject('Flight Component/buttonCalenderBack'))
-
-WebUI.click(findTestObject('Flight Component/buttonCalenderBack'))
-
-WebUI.click(findTestObject('Flight Component/buttonCalenderBack'))
+for (def n : (0..4)) {
+    WebUI.click(findTestObject('Flight Component/buttonCalenderBack'))
+}
 
 WebUI.click(findTestObject('Flight Component/checkboxPulang'))
 
 WebUI.click(findTestObject('Flight Component/fieldPulang'))
 
-WebUI.click(findTestObject('Flight Component/buttonCalenderForward'))
-
-WebUI.doubleClick(findTestObject('Flight Component/buttonCalenderForward'))
-
-WebUI.click(findTestObject('Flight Component/buttonCalenderForward'))
-
-WebUI.doubleClick(findTestObject('Flight Component/buttonCalenderForward'))
+for (def n : (0..4)) {
+    WebUI.click(findTestObject('Flight Component/buttonCalenderForward'))
+}
 

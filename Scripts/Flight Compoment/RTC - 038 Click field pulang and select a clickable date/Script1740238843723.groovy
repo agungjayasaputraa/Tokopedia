@@ -29,5 +29,5 @@ WebUI.click(findTestObject('Flight Component/fieldPulang'))
 
 WebUI.click(findTestObject('Flight Component/fieldTanggalPulang'))
 
-WebUI.verifyElementText(findTestObject('Flight Component/fieldPulang'), '03 Mar 2025')
+WebUI.verifyElementText(findTestObject('Flight Component/fieldPulang'), '27 Feb 2025')
 

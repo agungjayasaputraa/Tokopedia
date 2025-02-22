@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_3 (1)</name>
+   <name>listIndonesiaTujuan</name>
    <tag></tag>
-   <elementGuidId>725caa65-1a15-42d0-be18-6e00d529d193</elementGuidId>
+   <elementGuidId>182cfa08-7b83-4680-a8df-c39401059401</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[5]/div[2]/table[2]/tbody/tr[2]/td/div/div</value>
+         <key>CSS</key>
+         <value>div.css-1q62ntx > div.css-zpv22 > div.location-category</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[data-testid=&quot;date20250303&quot;] >> internal:text=&quot;3&quot;i</value>
+         <value>internal:text=&quot;INDONESIA&quot;i >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>19b13431-7538-4437-ae80-f73153d91b2e</webElementGuid>
+      <webElementGuid>a8cdbcf2-9c48-4912-be63-2076b2997db7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>date</value>
-      <webElementGuid>59d15852-8774-46c1-b805-155478a58cf2</webElementGuid>
+      <value>location-category</value>
+      <webElementGuid>6638ce9b-1fe6-42b2-a8ca-46a8b2580cc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> 3 </value>
-      <webElementGuid>fffcbc7a-70e5-4c95-be45-b1b70319d3a9</webElementGuid>
+      <value>INDONESIA</value>
+      <webElementGuid>924d1973-a1c8-402e-ad6d-862d75b030e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content&quot;)/div[@class=&quot;css-14u6y52&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-176o57r&quot;]/div[@class=&quot;css-nsmt50&quot;]/div[@class=&quot;css-lbroap&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-a1cc60&quot;]/section[@class=&quot;css-q1vfvh-unf-card eeeacht0&quot;]/div[@class=&quot;css-1q62ntx&quot;]/div[@class=&quot;css-k008qs&quot;]/table[@class=&quot;css-lfz9gb&quot;]/tbody[1]/tr[2]/td[1]/div[@class=&quot;date_card&quot;]/div[@class=&quot;date&quot;]</value>
-      <webElementGuid>ad70a36f-7a4a-4ad3-849b-35bae11af46d</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;css-14u6y52&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-176o57r&quot;]/div[@class=&quot;css-nsmt50&quot;]/div[@class=&quot;css-lbroap&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-a1cc60&quot;]/section[@class=&quot;css-q1vfvh-unf-card eeeacht0&quot;]/div[@class=&quot;css-1q62ntx&quot;]/div[@class=&quot;css-zpv22&quot;]/div[@class=&quot;location-category&quot;]</value>
+      <webElementGuid>dd5fbda2-74e4-4680-abdb-56874eb89daf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[5]/div[2]/table[2]/tbody/tr[2]/td/div/div</value>
-      <webElementGuid>f5f86f03-6a6b-450c-99dc-cd16a6006c79</webElementGuid>
+      <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div</value>
+      <webElementGuid>ec104898-28da-4ced-8e98-008481c0f1b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min'])[2]/following::div[8]</value>
-      <webElementGuid>10e2b105-092d-4dcd-be58-3a289e55959c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore - Changi (SIN)'])[1]/following::div[3]</value>
+      <webElementGuid>ee2e5efa-0681-4aa9-a6b9-83a00914bd23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sab'])[2]/following::div[8]</value>
-      <webElementGuid>03473ef7-06d9-450b-9c72-1d61b7072ac0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SINGAPORE'])[1]/following::div[5]</value>
+      <webElementGuid>402d6ff2-cfc6-46d5-be9c-e3ef179fdefc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dewasa'])[1]/preceding::div[93]</value>
-      <webElementGuid>dd5dfa70-dc30-407c-a56b-b2c0b9a1d000</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semarang - Achmad Yani (SRG)'])[2]/preceding::div[1]</value>
+      <webElementGuid>059900d0-480e-459c-af3f-8ee931b7fe2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usia 12 tahun ke atas'])[1]/preceding::div[94]</value>
-      <webElementGuid>32f24199-9539-41ca-827a-2638bf2d478f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pekanbaru - Sultan Syarif Kasim II (PKU)'])[2]/preceding::div[3]</value>
+      <webElementGuid>e23c77f1-0e86-4951-88fb-85d4b6f01df1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//table[2]/tbody/tr[2]/td/div/div</value>
-      <webElementGuid>d378b72e-d2df-41a4-b66a-118bf5a74035</webElementGuid>
+      <value>//section/div[4]/div/div</value>
+      <webElementGuid>714d4163-672d-450c-8118-3a09ade73baf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = ' 3 ' or . = ' 3 ')]</value>
-      <webElementGuid>6cebecba-9999-4f6a-ac92-3626151c63ee</webElementGuid>
+      <value>//div[(text() = 'INDONESIA' or . = 'INDONESIA')]</value>
+      <webElementGuid>cb36d3d6-074a-4734-bbfd-914df7f1a5d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

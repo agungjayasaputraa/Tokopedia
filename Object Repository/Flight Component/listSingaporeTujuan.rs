@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_INDONESIA (1)</name>
+   <name>listSingaporeTujuan</name>
    <tag></tag>
-   <elementGuidId>cb0b2578-cc98-4961-9f15-f64e8f9e1db1</elementGuidId>
+   <elementGuidId>393db460-6061-4585-b4ec-430fcbc72894</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.css-1q62ntx > div.css-zpv22 > div.location-category</value>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div[17]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;INDONESIA&quot;i >> nth=1</value>
+         <value>internal:text=&quot;SINGAPORE&quot;i >> nth=2</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>cd280eee-35e0-4b39-9662-57eccd34b8f1</webElementGuid>
+      <webElementGuid>2e00fa6b-cb7e-44e9-a1ba-613b02312e29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>location-category</value>
-      <webElementGuid>0ec28ba8-a480-4700-b39c-18bfc543cdf1</webElementGuid>
+      <webElementGuid>62f5e030-9123-45bb-a66d-c7a5c384e90c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>INDONESIA</value>
-      <webElementGuid>be174728-06ee-45c0-9ea6-217018be3416</webElementGuid>
+      <value>SINGAPORE</value>
+      <webElementGuid>1f8a11c0-b249-41c7-93ba-c9e0163528c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,62 +53,62 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;css-14u6y52&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-176o57r&quot;]/div[@class=&quot;css-nsmt50&quot;]/div[@class=&quot;css-lbroap&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-a1cc60&quot;]/section[@class=&quot;css-q1vfvh-unf-card eeeacht0&quot;]/div[@class=&quot;css-1q62ntx&quot;]/div[@class=&quot;css-zpv22&quot;]/div[@class=&quot;location-category&quot;]</value>
-      <webElementGuid>0377d7bd-9975-42dc-9423-ed5035c4a97a</webElementGuid>
+      <webElementGuid>2cc6db10-d858-4903-9f9c-1f6fa541bc6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div</value>
-      <webElementGuid>d7be8d75-7e41-4cf9-ad91-3e9caa81dc7c</webElementGuid>
+      <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div[4]/div/div[17]</value>
+      <webElementGuid>aab50e80-a984-44b8-8ed1-e747d052b741</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore - Changi (SIN)'])[1]/following::div[3]</value>
-      <webElementGuid>6f14bb92-6022-4cab-8a40-fd4218639064</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kuala Lumpur - Kuala Lumpur (KUL)'])[2]/following::div[1]</value>
+      <webElementGuid>1fdde4a0-bfc2-4f62-a173-29fd82939660</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SINGAPORE'])[1]/following::div[5]</value>
-      <webElementGuid>6fd4bca8-af5b-44e3-aad1-c67d5333c2d8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MALAYSIA'])[2]/following::div[3]</value>
+      <webElementGuid>7ed5e5c9-04ab-4837-a891-a9dcbcb7bcf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Padang - Minangkabau (PDG)'])[2]/preceding::div[1]</value>
-      <webElementGuid>0f56fe44-828f-41eb-889c-bd5255a56cfb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore - Changi (SIN)'])[2]/preceding::div[1]</value>
+      <webElementGuid>8becc94b-a06e-44b6-96ca-ab8fe16eb1a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pangkal Pinang - Depati Amir (PGK)'])[2]/preceding::div[3]</value>
-      <webElementGuid>68922810-1f73-4e82-98d0-b7105af18758</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Februari 2025'])[1]/preceding::div[6]</value>
+      <webElementGuid>64a60589-5fe1-41f2-a8bd-fb7f66f39da3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section/div[4]/div/div</value>
-      <webElementGuid>0335d2e4-ae87-414d-9f4b-8a817c407de8</webElementGuid>
+      <value>//div[4]/div/div[17]</value>
+      <webElementGuid>31a3d1f2-cf01-48c1-b80d-84a50d24dfd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'INDONESIA' or . = 'INDONESIA')]</value>
-      <webElementGuid>412a6b4f-6648-481c-bbe3-2476fd6fb4f8</webElementGuid>
+      <value>//div[(text() = 'SINGAPORE' or . = 'SINGAPORE')]</value>
+      <webElementGuid>3f15d012-6ee6-4240-9432-37bd2a5ad0ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
