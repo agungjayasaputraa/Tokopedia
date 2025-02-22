@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 034 Verify dropdown tujuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3bc5295-75a2-40c2-9209-77a3b92aead8</testCaseGuid>
+</TestCaseEntity>

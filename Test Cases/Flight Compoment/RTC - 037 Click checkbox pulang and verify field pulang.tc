@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 037 Click checkbox pulang and verify field pulang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7e0d40a-04b0-49fe-83d1-b7b304c5afec</testCaseGuid>
+</TestCaseEntity>

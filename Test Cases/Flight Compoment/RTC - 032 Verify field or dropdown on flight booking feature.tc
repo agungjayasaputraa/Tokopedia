@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 032 Verify field or dropdown on flight booking feature</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c918372c-cf62-42b4-ba21-17dddd0f285f</testCaseGuid>
+</TestCaseEntity>

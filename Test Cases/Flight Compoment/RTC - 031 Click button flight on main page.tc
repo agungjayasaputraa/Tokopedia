@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 031 Click button flight on main page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32208c99-a90a-4568-97ed-eb89a4520bc5</testCaseGuid>
+</TestCaseEntity>

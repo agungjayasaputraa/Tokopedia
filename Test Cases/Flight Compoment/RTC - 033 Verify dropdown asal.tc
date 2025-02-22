@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 033 Verify dropdown asal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad1eb867-4abf-4092-9d61-a0f404648b8c</testCaseGuid>
+</TestCaseEntity>

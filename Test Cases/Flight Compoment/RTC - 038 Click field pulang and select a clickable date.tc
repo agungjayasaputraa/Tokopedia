@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 038 Click field pulang and select a clickable date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d36b4f2-dddf-44ea-b3b1-f642773731cc</testCaseGuid>
+</TestCaseEntity>

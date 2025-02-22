@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC - 039 Click icon button previous and next on calendar berangkat and pulang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ad96c7a-0b56-4f3d-b54d-b2bf19bc9ef0</testCaseGuid>
+</TestCaseEntity>

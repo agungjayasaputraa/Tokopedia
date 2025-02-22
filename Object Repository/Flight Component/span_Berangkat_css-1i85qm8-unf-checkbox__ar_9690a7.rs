@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Berangkat_css-1i85qm8-unf-checkbox__ar_9690a7</name>
+   <tag></tag>
+   <elementGuidId>2ce6e6c9-7c88-478c-b619-a267f9333f31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div/div[2]/div/div[2]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-1i85qm8-unf-checkbox__area.e3y1k2n1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;toggle-round-trip&quot;] span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2063cc52-59b8-4e8c-9bc7-cf63cfe760ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1i85qm8-unf-checkbox__area e3y1k2n1</value>
+      <webElementGuid>da014b10-3d04-4d8f-b4ca-59816b461558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;css-14u6y52&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-176o57r&quot;]/div[@class=&quot;css-nsmt50&quot;]/div[@class=&quot;css-lbroap&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-a1cc60&quot;]/section[@class=&quot;css-q1vfvh-unf-card eeeacht0&quot;]/div[@class=&quot;css-18otgy3&quot;]/div[@class=&quot;date&quot;]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;inner-title css-4g6ai3&quot;]/div[@class=&quot;css-1bh52ki e3y1k2n0&quot;]/label[@class=&quot;checkbox css-8wwjx7-unf-checkbox e3y1k2n2&quot;]/span[@class=&quot;css-1i85qm8-unf-checkbox__area e3y1k2n1&quot;]</value>
+      <webElementGuid>6359fba0-23f1-4a93-b0f8-d7fc80dabce7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div[2]/div/div/div/div/section/div/div[2]/div/div[2]/div/label/span</value>
+      <webElementGuid>c2a0d8cc-814c-4a99-9e32-a0dc2005b54d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berangkat'])[1]/following::span[1]</value>
+      <webElementGuid>4774cee8-7b42-45dd-ae2c-efcb2e75b008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tujuan'])[1]/following::span[1]</value>
+      <webElementGuid>1c8ea4f0-2f74-4759-99b3-d3434f71c0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulang'])[1]/preceding::span[1]</value>
+      <webElementGuid>8970f87c-9abf-4f3e-93df-6cbe8ae42cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Penumpang'])[1]/preceding::span[1]</value>
+      <webElementGuid>de24ec1f-8e86-43ff-81de-af0fdcdd393b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>c75d9f52-83a6-49a5-b06e-588fe9d66f7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
